@@ -10,7 +10,7 @@ SQL Window Functions/
 ├── 4. Window Frames
 │   ├── ROWS BETWEEN                           ✅
 │   ├── RANGE BETWEEN                          ✅
-│   └── GROUPS BETWEEN                         ⏳ NEXT
+│   └── GROUPS BETWEEN                         ✅
 │
 ├── 5. Ranking Functions
 │   ├── ROW_NUMBER()                           ⏳
