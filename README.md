@@ -1,4 +1,5 @@
 # SQL Data Engineering
+
 SQL concepts, interview problems, and practical patterns for Data Engineering.
 My practical SQL learning journey focused on Data Engineering,
 interview preparation, and real-world analytical patterns.
@@ -33,7 +34,7 @@ Currently working on:
 - RANGE BETWEEN :white_check_mark:
 - Peer Groups :white_check_mark:
 - ROWS vs RANGE :white_check_mark:
-- Rolling Windows
+- Rolling Windows 🟡 In Progress
 
 ## Learning Approach
 
@@ -48,13 +49,13 @@ For each topic:
 
 ## Progress
 
-| Topic | Status |
-|---|---|
-| SQL Fundamentals | 🟡 In Progress |
-| Joins | ⚪ Not Started |
-| CTEs | ⚪ Not Started |
-| Window Functions | 🟡 In Progress |
-| Advanced SQL | ⚪ Not Started |
+| Topic                | Status         |
+| -------------------- | -------------- |
+| SQL Fundamentals     | 🟡 In Progress |
+| Joins                | 🟡 In Progress |
+| CTEs                 | 🟡 In Progress |
+| Window Functions     | 🟡 In Progress |
+| Advanced SQL         | ⚪ Not Started |
 | Data Engineering SQL | ⚪ Not Started |
 
 ## Goal
